@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c59f23-912f-46f3-9249-a6cd96cf0b8e" name="Default Changelist" comment="learning add">
-      <change afterPath="$PROJECT_DIR$/mySpider/spiders/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mySpider/spiders/test4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mySpider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mySpider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mySpider/spiders/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/mySpider/spiders/test2.py" afterDir="false" />
-    </list>
+    <list default="true" id="d6c59f23-912f-46f3-9249-a6cd96cf0b8e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587526062622</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning add">
+      <created>1587551190912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587551190912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,10 +119,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="learning add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="2" key="CommitChangelistDialog2" timestamp="1587551146788">
+    <state x="409" y="2" key="CommitChangelistDialog2" timestamp="1587551280711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587551146788" />
+    <state x="409" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587551280711" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1587551140327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -130,22 +131,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="819" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587475591615" />
-    <state width="852" height="236" key="GridCell.Tab.0.bottom" timestamp="1587550444966">
+    <state width="1515" height="162" key="GridCell.Tab.0.bottom" timestamp="1587551244036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587550444966" />
-    <state width="852" height="236" key="GridCell.Tab.0.center" timestamp="1587550444966">
+    <state width="1515" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587551244035" />
+    <state width="1515" height="162" key="GridCell.Tab.0.center" timestamp="1587551244035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587550444966" />
-    <state width="852" height="236" key="GridCell.Tab.0.left" timestamp="1587550444966">
+    <state width="1515" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587551244035" />
+    <state width="1515" height="162" key="GridCell.Tab.0.left" timestamp="1587551244035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587550444966" />
-    <state width="852" height="236" key="GridCell.Tab.0.right" timestamp="1587550444966">
+    <state width="1515" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587551244035" />
+    <state width="1515" height="162" key="GridCell.Tab.0.right" timestamp="1587551244035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="852" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587550444966" />
+    <state width="1515" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587551244035" />
     <state x="602" y="122" key="RollbackChangesDialog" timestamp="1587551134228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
