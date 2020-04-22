@@ -6,6 +6,11 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class MyspiderPipeline(object):
+class CommentPipeline(object):
+    # 初始化函数，一般用作建立数据库连接
+    def __init__(self):
+        pass
+
+    # 输出处理方法
     def process_item(self, item, spider):
-        return item
+        print(item['id'], item['nickname'])

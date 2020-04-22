@@ -8,7 +8,10 @@
 import scrapy
 
 
-class MyspiderItem(scrapy.Item):
+class CommentItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    id = scrapy.Field()
+    nickname = scrapy.Field()
+    productColor = scrapy.Field()
+    productSize = scrapy.Field()
