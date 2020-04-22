@@ -6,7 +6,6 @@ from mySpider.items import CommentItem
 
 class Spider(scrapy.Spider):
     name = "test2"
-    url = ""
     heads = {
         "Accept": "* / *",
         "Accept - Encoding": "gzip, deflate, br",
